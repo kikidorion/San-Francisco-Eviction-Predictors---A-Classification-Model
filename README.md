@@ -1,0 +1,2 @@
+# San-Francisco-Eviction-Predictors---A-Classification-Model
+Goal: predict where and when evictions are most likely in San Francisco, and identify the drivers behind higher risk by neighborhood and time.  This repo contains a notebook that ingests the San Francisco Eviction Notices dataset, engineers neighborhood‑level risk features, trains a simple classifier, and visualizes patterns over time and space.
